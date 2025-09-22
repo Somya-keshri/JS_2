@@ -3,7 +3,6 @@ var b = "Somya";
 var c = null;
 let d = undefined;
 let e = true;
-
 {
     var g = 'this';
     console.log(g); // 'this'
